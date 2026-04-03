@@ -26,7 +26,7 @@ Energy and infrastructure management are handled through **Charging\_Stations** 
 # Data Dictionary:
 <img width="662" height="518" alt="Screenshot 2026-04-02 at 6 22 03 PM" src="https://github.com/user-attachments/assets/884449ad-38c4-4131-b2bc-efef91f9e756" />
 <img width="721" height="511" alt="Screenshot 2026-04-03 at 2 30 30 PM" src="https://github.com/user-attachments/assets/b7bdac48-bb43-478e-848c-4ef877de0d04" />
-<img width="539" height="625" alt="Screenshot 2026-04-01 at 12 32 29 PM" src="https://github.com/user-attachments/assets/5642881a-b210-4cb1-a1bd-160fcdab1d75" />
+<img width="661" height="671" alt="Screenshot 2026-04-03 at 6 29 22 PM" src="https://github.com/user-attachments/assets/37ac7b3c-eaec-4022-b447-7e4bfd7d045b" />
 <img width="681" height="645" alt="Screenshot 2026-04-03 at 2 32 00 PM" src="https://github.com/user-attachments/assets/0a9343da-2ee6-4cbd-a72a-a94f6905d861" />
 <img width="680" height="657" alt="Screenshot 2026-04-03 at 2 31 17 PM" src="https://github.com/user-attachments/assets/6013f9ed-0bbc-4026-bbc1-7577938dc0f2" />
 <img width="644" height="649" alt="Screenshot 2026-04-01 at 12 27 45 PM" src="https://github.com/user-attachments/assets/e602a978-d091-4f3e-91dd-61277f0381b5" />
